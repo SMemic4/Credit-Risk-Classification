@@ -15,7 +15,7 @@ This project focuses on developing a machine learning model to classify individu
 
 ### Dataset
 
-Source: [Kaggle German Credit Ris](https://www.kaggle.com/datasets/uciml/german-credit?resource=download)
+Source: [German Credit Risk](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
 
 
 ## Workflow
@@ -36,3 +36,6 @@ This project is licensed under the MIT License.
 ## Acknowledgments 
 
 ## References
+
+Hofmann, H. (1994). Statlog (German Credit Data) [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5NC77.
+
